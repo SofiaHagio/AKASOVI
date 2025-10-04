@@ -629,3 +629,77 @@ input[type="radio"]:checked + .tab-label{
   text-align: center;
   max-width: 100%;
 }
+
+/*PLANOS*/
+.planos{
+  padding: 80px 40px;
+}
+
+.planos h1{
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 12px;
+  letter-spacing: 2px;
+  color: rgb(232, 106, 28);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.blocos{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.plano{
+  background-color: black;
+  border: 1px solid rgb(232, 106, 28);
+  border-radius: 15px;
+  width: 300px;
+  padding: 40px 20px;
+  text-align: center;
+  position: relative;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+}
+
+.plano:hover{
+  transform: translateY(-10px);
+  box-shadow: 0 0 20px rgb(232, 106, 28);
+}
+
+.plano h2{
+  font-size: 1.4rem;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.preco{
+  font-size: 1.2rem;
+  margin: 10px 0;
+  color:rgb(232, 106, 28);
+}
+
+.preco span{
+  font-size: 3rem;
+  font-weight: bold;
+  color:rgb(232, 106, 28);
+}
+
+.descricao{
+  color: white;
+  margin-bottom: 20px;
+}
+
+.plano ul{
+  list-style: none;
+  text-align: left;
+  margin-top: 25px;
+  padding-left: 15px;
+  color: white;
+}
+
+.plano ul p{
+  margin-bottom: 8px;
+}
