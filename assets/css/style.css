@@ -924,3 +924,237 @@ input[type="radio"]:checked + .tab-label{
   color: rgb(204, 201, 201);
   transform:Â scale(1.1);
 }
+
+/*RESPONSIVIDADE*/
+@media (max-width: 768px) {
+  body {
+    padding-top: 70px;
+  }
+ 
+  header {
+    flex-direction: column;
+    padding: 10px 4%;
+    gap: 8px;
+  }
+ 
+  nav {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+  }
+ 
+  nav a {
+    margin-left: 0;
+    margin: 0 8px;
+    font-size: 0.85rem;
+  }
+ 
+  .logo {
+    font-size: 1.4rem;
+  }
+ 
+  .home {
+    min-height: 70vh;
+  }
+ 
+  .home-content h1 {
+    font-size: 1.5rem;
+  }
+ 
+  .home-content p {
+    font-size: 0.95rem;
+  }
+ 
+  .sobre {
+    grid-template-columns: 1fr;
+    padding: 50px 4%;
+    gap: 10px;
+  }
+ 
+  .sobre h1,
+  .sobre p {
+    grid-column: 1 / -1;
+    justify-self: center;
+    text-align: center;
+  }
+ 
+  .sobre h1 {
+    font-size: 2rem;
+  }
+ 
+  .sobre h2 {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+ 
+  .home2,
+  .home3 {
+    flex-direction: column;
+  }
+ 
+  .home2-content,
+  .home3-content {
+    max-width: 100%;
+    padding: 30px 4%;
+    text-align: center;
+  }
+ 
+  .home2-content h1,
+  .home3-content h1 {
+    font-size: 1.5rem;
+  }
+ 
+  .home2-img,
+  .home3-img {
+    width: 100%;
+    min-height: 200px;
+    clip-path: none;
+  }
+ 
+  .tabs {
+    padding: 2rem 0 0 0;
+  }
+ 
+  .tab-label {
+    padding: 8px 12px;
+    font-size: 0.85rem;
+  }
+ 
+  .tab-content {
+    padding: 20px 4%;
+  }
+ 
+  .tab-subcontent {
+    flex-direction: column;
+    text-align: center;
+    gap: 2rem;
+  }
+ 
+  .tab-subcontent img {
+    width: 100%;
+    max-width: 100%;
+    clip-path: none;
+  }
+ 
+  .info {
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 4%;
+    gap: 2rem;
+  }
+ 
+  .beneficios {
+    padding: 3rem 4%;
+  }
+ 
+  .beneficios-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+  }
+ 
+  .equipamentos {
+    padding: 3rem 4%;
+    border-radius: 10px;
+  }
+ 
+  .equipamentos h2 {
+    margin-top: 2rem;
+    font-size: 1.1rem;
+  }
+ 
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+ 
+  .cards-content {
+    width: 100%;
+  }
+ 
+  .galeria {
+    padding: 1rem 4%;
+  }
+ 
+  .galeria-container {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+ 
+  .profissionais {
+    padding: 2rem 4%;
+  }
+ 
+  .profissionais h2 {
+    font-size: 1.3rem;
+  }
+ 
+  .profissionais-container {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+ 
+  .profissionais-img {
+    width: 100px;
+    height: 100px;
+  }
+ 
+  .planos {
+    padding: 40px 4%;
+  }
+ 
+  .planos h1 {
+    font-size: 1.3rem;
+  }
+ 
+  .blocos {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+ 
+  .plano {
+    width: 100%;
+    max-width: 360px;
+  }
+ 
+  .contato {
+    padding: 30px 4%;
+  }
+ 
+  .contato-box {
+    padding: 20px;
+  }
+ 
+  .contato-box h1 {
+    font-size: 1.4rem;
+  }
+ 
+  .info-cards {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+ 
+  .form input,
+  .form textarea {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+ 
+  .rodape {
+    padding: 20px 4%;
+  }
+ 
+  .rodape-content {
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+ 
+  .rodape-content h2 {
+    font-size: 1.1rem;
+  }
+}
