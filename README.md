@@ -25,7 +25,7 @@ Uma experiência digital imersiva que simula um centro de treinamento de alta pe
 
 A **AKASOVI** é o resultado de um desafio de criação total. O objetivo foi desenvolver uma marca fictícia do zero e construir toda a sua presença digital.
 
-Diferente de uma academia comum, o projeto apresenta um centro de **10.000 m²**, integrando tecnologia, performance e bem-estar.
+Diferente de uma academia comum, o projeto apresenta um centro de 10.000 m², integrando tecnologia, performance e bem-estar.
 
 O desenvolvimento foi focado em:
 
