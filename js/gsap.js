@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
       end: "+=300%",
       onLeaveBack: () => {},   // 👈 evita sair pelo topo
       onLeave: () => {
-        window.location.href = "index.html";  // 👈 redireciona ao terminar
+        window.location.href = "home.html";  // 👈 redireciona ao terminar
       },
       markers: true,
       pin: true,
