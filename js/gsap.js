@@ -10,7 +10,6 @@ window.addEventListener("load", () => {
       onLeave: () => {
         window.location.href = "home.html";  // 👈 redireciona ao terminar
       },
-      markers: true,
       pin: true,
       scrub: 2,
     },
