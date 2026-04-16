@@ -122,11 +122,10 @@ ou
 
 ## 👩‍💻 Minha contribuição
 
-- 🎨 Estruturação do layout com HTML semântico  
-- 💅 Estilização completa com CSS, focando em design moderno e responsivo  
-- ⚙️ Implementação de interações e animações com JavaScript  
-- 🎬 Criação da tela de introdução animada utilizando GSAP  
-- 📱 Organização da navegação entre páginas e experiência do usuário (UX)  
+- Estruturação do layout com HTML semântico  
+- Estilização completa com CSS, focando em design moderno e responsivo  
+- Implementação de interações e animações com JavaScript  
+- Organização da navegação entre páginas e experiência do usuário (UX)  
 
 ---
 
