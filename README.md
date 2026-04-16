@@ -122,10 +122,11 @@ ou
 
 ## 👩‍💻 Minha contribuição
 
-- Desenvolvimento da interface  
-- Criação da identidade visual  
-- Estruturação das páginas  
-- Implementação das animações  
+- 🎨 Estruturação do layout com HTML semântico  
+- 💅 Estilização completa com CSS, focando em design moderno e responsivo  
+- ⚙️ Implementação de interações e animações com JavaScript  
+- 🎬 Criação da tela de introdução animada utilizando GSAP  
+- 📱 Organização da navegação entre páginas e experiência do usuário (UX)  
 
 ---
 
