@@ -86,9 +86,9 @@ cd AKASOVI
 
 ### 3. Abra o site
 
-- Abra `intro.html` para a animação inicial  
+- Abra `index.html` para a animação inicial  
 ou  
-- Abra `index.html` para ir direto ao conteúdo  
+- Abra `home.html` para ir direto ao conteúdo  
 
 ---
 
