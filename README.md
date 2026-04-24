@@ -145,4 +145,4 @@ ou
 
 ## 📄 Licença
 
-Este projeto é livre para uso educacional e consulta de código.
+Este projeto é livre para uso educacional.
