@@ -107,20 +107,20 @@ ou
 
 ```
 📁 akasovi
- ├── 📄 index.html
- ├── 📄 index2.html
- ├── 📄 index3.html
- ├── 📄 index4.html
- ├── 📄 index5.html
- ├── 📄 index6.html
- ├── 📄 home.html
- ├── 📄 README.md
- ├── 📁 css
- └── 📁 js
- └── 📁 img
- └── 📁 img2
- └── 📁 img3
- └── 📁 assets
+ ├── 📄 index.html      ← Página inicial
+ ├── 📄 index2.html     ← Tela de introdução (Intro)
+ ├── 📄 index3.html     ← Página de treinos
+ ├── 📄 index4.html     ← Página de equipamentos
+ ├── 📄 index5.html     ← Página de profissionais
+ ├── 📄 index6.html     ← Página de planos
+ ├── 📄 home.html       ← Página de contato
+ ├── 📄 README.md       ← Este arquivo
+ ├── 📁 css             ← Arquivos de estilização
+ └── 📁 js              ← Scripts JavaScript e animações
+ └── 📁 img             ← Imagens de fundo das páginas
+ └── 📁 img2            ← Imagens dos equipamentos
+ └── 📁 img3            ← Imagens dos profissionais
+ └── 📁 assets          ← Preview do projeto
 
 ```
 
