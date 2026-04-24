@@ -75,7 +75,7 @@ Além do código, todo o conceito da marca foi criado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/v1kyw/AKASOVI.git
+git clone https://github.com/SofiaHagio/AKASOVI.git
 ```
 
 ### 2. Acesse a pasta
