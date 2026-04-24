@@ -42,11 +42,11 @@ O desenvolvimento foi focado em:
 
 Além do código, todo o conceito da marca foi criado:
 
-- 🏛️ **Conceito AKASOVI:** academia inteligente e conectada  
-- ⚙️ **Tecnologia própria:** simulação de sistemas e dashboards  
-- 📋 **Metodologia de treino:** Hipertrofia, Emagrecimento e Master (+60)  
-- 👥 **Equipe:** perfis profissionais completos  
-- 💳 **Planos:** estrutura de assinaturas com benefícios  
+- **Conceito AKASOVI:** academia inteligente e conectada  
+- **Tecnologia própria:** simulação de sistemas e dashboards  
+- **Metodologia de treino:** Hipertrofia, Emagrecimento e Master (+60)  
+- **Equipe:** perfis profissionais completos  
+- **Planos:** estrutura de assinaturas com benefícios  
 
 ---
 
