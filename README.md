@@ -108,12 +108,12 @@ ou
 ```
 📁 akasovi
  ├── 📄 index.html      ← Página inicial
- ├── 📄 index2.html     ← Tela de introdução (Intro)
- ├── 📄 index3.html     ← Página de treinos
- ├── 📄 index4.html     ← Página de equipamentos
- ├── 📄 index5.html     ← Página de profissionais
- ├── 📄 index6.html     ← Página de planos
- ├── 📄 home.html       ← Página de contato
+ ├── 📄 index2.html     ← Página de treinos
+ ├── 📄 index3.html     ← Página de equipamentos
+ ├── 📄 index4.html     ← Página de profissionais
+ ├── 📄 index5.html     ← Página de planos
+ ├── 📄 index6.html     ← Página de contato
+ ├── 📄 home.html       ← Tela de introdução (Intro)
  ├── 📄 README.md       ← Este arquivo
  ├── 📁 css             ← Arquivos de estilização
  └── 📁 js              ← Scripts JavaScript e animações
@@ -121,7 +121,6 @@ ou
  └── 📁 img2            ← Imagens dos equipamentos
  └── 📁 img3            ← Imagens dos profissionais
  └── 📁 assets          ← Preview do projeto
-
 ```
 
 ## ⚠️ Observações
