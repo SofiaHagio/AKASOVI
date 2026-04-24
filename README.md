@@ -124,6 +124,8 @@ ou
 
 ```
 
+---
+
 ## ⚠️ Observações
 
 - Projeto acadêmico  
