@@ -103,7 +103,7 @@ ou
 
 ---
 
-## 📂 Estrutura do projeto
+## 📂 Estrutura do repositório 
 
 ```
 📁 akasovi
@@ -113,21 +113,16 @@ ou
  ├── 📄 index4.html
  ├── 📄 index5.html
  ├── 📄 index6.html
- ├── 📄 intro.html
+ ├── 📄 home.html
+ ├── 📄 README.md
  ├── 📁 css
  └── 📁 js
+ └── 📁 img
+ └── 📁 img2
+ └── 📁 img3
+ └── 📁 assets
+
 ```
-
----
-
-## 👩‍💻 Minha contribuição
-
-- Estruturação do layout com HTML semântico  
-- Estilização completa com CSS, focando em design moderno e responsivo  
-- Implementação de interações e animações com JavaScript  
-- Organização da navegação entre páginas e experiência do usuário (UX)  
-
----
 
 ## ⚠️ Observações
 
@@ -137,15 +132,12 @@ ou
 
 ---
 
-## ✨ Autores do projeto
+## 👩‍💻 Equipe
 
 - Ana Clara Tamborini Bossolan  
 - Kadu Nunes Zambon Minardi Azevedo
 - Sofia Satomi Hagio
 - Victoria Haruka Ishi
-
-
-
 
 ---
 
