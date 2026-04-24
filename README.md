@@ -121,6 +121,7 @@ ou
  └── 📁 img2            ← Imagens dos equipamentos
  └── 📁 img3            ← Imagens dos profissionais
  └── 📁 assets          ← Preview do projeto
+
 ```
 
 ## ⚠️ Observações
