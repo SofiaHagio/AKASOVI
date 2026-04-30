@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
       end: "+=300%",
       onLeaveBack: () => {},   
       onLeave: () => {
-        window.location.href = "home.html";  
+        window.location.href = "sobre.html";  
       },
       pin: true,
       scrub: 2,
