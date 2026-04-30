@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🏋️‍♂️ AKASOVI
 
 ![Status](https://img.shields.io/badge/status-concluído-green)
@@ -155,3 +156,6 @@ Este projeto é livre para uso educacional.
 =======
 # AKASOVI
 >>>>>>> a1aaec9873e83130258ff681f4460c86a7026ec3
+=======
+
+>>>>>>> cd5e05ec81b843841b97eaee35462642520efbf6
