@@ -17,7 +17,7 @@ Uma experiência digital imersiva que simula um centro de treinamento de alta pe
 
 ## 🌐 Acesse o projeto online
 
-🔗 https://akasovi.vercel.app/
+🔗 https://akasovi-8f4h.vercel.app/
 
 ---
 
