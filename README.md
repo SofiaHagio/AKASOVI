@@ -107,13 +107,13 @@ ou
 
 ```      
 📁 AKASOVI
- ├── 📁 assets
- │    ├── 📁 css
- │    │    ├── 📄 style.css          ← CSS principal
- │    │    └── 📄 intro.css          ← CSS da intro
- │    ├── 📁 js
- │    │    └── 📄 gsap.js
- │    └── 📁 imgs
+ ├── 📁 assets                 
+ │    ├── 📁 css               
+ │    │    ├── 📄 style.css          ← CSS principal 
+ │    │    └── 📄 intro.css          ← CSS intro
+ │    ├── 📁 js                
+ │    │    └── 📄 gsap.js            ← Animações e transições com GSAP
+ │    └── 📁 imgs              
  │        ├── 📁 img-preview
  │        │    └── 📄 preview.png
  │        ├── 📁 img-sobre
@@ -140,7 +140,7 @@ ou
  ├── 📄 profissionais.html           ← Página Profissionais
  ├── 📄 planos.html                  ← Página Planos
  ├── 📄 contato.html                 ← Página Contato
- └── 📄 README.md                   ← Este arquivo
+ └── 📄 README.md                    ← Este arquivo
 
 ```
 
