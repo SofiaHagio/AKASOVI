@@ -88,13 +88,13 @@ cd AKASOVI
 
 - Abra `index.html` para a animação inicial  
 ou  
-- Abra `home.html` para ir direto ao conteúdo  
+- Abra `sobre.html` para ir direto ao conteúdo  
 
 ---
 
 ## 💬 Estrutura de navegação
 
-- **Home:** apresentação da marca  
+- **Sobre:** apresentação da marca  
 - **Treinos:** escolha de objetivos  
 - **Equipamentos:** estrutura e tecnologia  
 - **Profissionais:** equipe especializada  
@@ -105,27 +105,42 @@ ou
 
 ## 📂 Estrutura do repositório 
 
-```
-📁 akasovi
- └── 📁 assets
-    ├──  📁 css             ← Arquivos de estilização
-    │    ├── 📄 style.css   ← CSS principal
-    │    └── 📄 intro.css   ← CSS da intro
-    └── 📁 js
-         └── 📄 gsap.js        
-    └── 📁 img-preview            
-    └── 📁 img-sobre           
-    └── 📁 img-treinos           
-    └── 📁 img-equipamentos 
-    └── 📁 img-profissionais            
- ├── 📄 index.html             ← Intro
- ├── 📄 sobre.html             ← Página Sobre
- ├── 📄 treinos.html           ← Página Treinos
- ├── 📄 equipamentos.html      ← Página Equipamentos
- ├── 📄 profissionais.html     ← Página Profissionais
- ├── 📄 planos.html            ← Página Planos
- ├── 📄 contato.html           ← Página Contato
- ├── 📄 README.md              ← Este arquivo
+```      
+📁 AKASOVI
+ ├── 📁 assets
+ │    ├── 📁 css
+ │    │    ├── 📄 style.css          ← CSS principal
+ │    │    └── 📄 intro.css          ← CSS da intro
+ │    ├── 📁 js
+ │    │    └── 📄 gsap.js
+ │    └── 📁 imgs
+ │        ├── 📁 img-preview
+ │        │    └── 📄 preview.png
+ │        ├── 📁 img-sobre
+ │        │    └── 📄 background.jpeg
+ │        ├── 📁 img-treinos
+ │        │    ├── 📄 background.jpeg
+ │        │    ├── 📄 emagrecimento.jpeg
+ │        │    ├── 📄 hipertrofia.jpeg
+ │        │    └── 📄 master.jpeg
+ │        ├── 📁 img-equipamentos 
+ │        │    ├── 📄 background.jpeg
+ │        │    ├── 📄 galeria1.jpeg
+ │        │    ├── 📄 galeria2.jpeg
+ │        │    └── 📄 galeria3.jpeg
+ │        └── 📁 img-profissionais
+ │             ├── 📄 ANA.jpeg
+ │             ├── 📄 KADU.jpeg
+ │             ├── 📄 SOFIA.jpeg
+ │             └── 📄 VICTORIA.jpeg
+ ├── 📄 index.html                   ← Intro
+ ├── 📄 sobre.html                   ← Página Sobre
+ ├── 📄 treinos.html                 ← Página Treinos
+ ├── 📄 equipamentos.html            ← Página Equipamentos
+ ├── 📄 profissionais.html           ← Página Profissionais
+ ├── 📄 planos.html                  ← Página Planos
+ ├── 📄 contato.html                 ← Página Contato
+ └── 📄 README.md                   ← Este arquivo
 
 ```
 
