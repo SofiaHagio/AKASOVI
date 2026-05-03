@@ -1,10 +1,5 @@
 # 🏋️‍♂️ AKASOVI
 
-![Status](https://img.shields.io/badge/status-concluído-green)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
 Uma experiência digital imersiva que simula um centro de treinamento de alta performance, unindo design moderno, animações e conceitos de UX.
 
 ---
