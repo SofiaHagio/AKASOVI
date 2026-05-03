@@ -126,14 +126,14 @@ ou
  │             ├── 📄 KADU.jpeg
  │             ├── 📄 SOFIA.jpeg
  │             └── 📄 VICTORIA.jpeg
+ ├── 📄 README.md                    ← Este arquivo
  ├── 📄 index.html                   ← Intro
  ├── 📄 sobre.html                   ← Página Sobre
  ├── 📄 treinos.html                 ← Página Treinos
  ├── 📄 equipamentos.html            ← Página Equipamentos
  ├── 📄 profissionais.html           ← Página Profissionais
  ├── 📄 planos.html                  ← Página Planos
- ├── 📄 contato.html                 ← Página Contato
- └── 📄 README.md                    ← Este arquivo
+ └── 📄 contato.html                 ← Página Contato
 
 ```
 
