@@ -34,8 +34,6 @@ O desenvolvimento foi focado em:
 - Estruturação de páginas web  
 - Identidade visual completa  
 
- 💡 Projeto ideal para demonstrar habilidades em front-end e design digital.
-
 ---
 
 ## 🚀 O que foi desenvolvido
