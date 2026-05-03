@@ -1,6 +1,6 @@
 # 🏋️‍♂️ AKASOVI
 
-Uma experiência digital imersiva que simula um centro de treinamento de alta performance, unindo design moderno, animações e conceitos de UX.
+> Uma experiência digital imersiva que simula um centro de treinamento de alta performance, unindo design moderno, animações e conceitos de UX.
 
 ---
 
