@@ -45,7 +45,7 @@ Além do código, todo o conceito da marca foi criado:
 
 ## ⚡ Destaques técnicos
 
-- Animações avançadas com **GSAP**  
+- Animações avançadas com GSAP  
 - Estrutura modular com múltiplas páginas  
 - Navegação focada em experiência do usuário (UX)  
 - Design responsivo  
