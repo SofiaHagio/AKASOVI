@@ -100,33 +100,33 @@ ou
 
 ```      
 AKASOVI/
- ├── assets                 
- │    ├── css               
+ ├── assets/                 
+ │    ├── css/               
  │    │    ├── style.css          ← CSS principal 
  │    │    └── intro.css          ← CSS intro
- │    ├── js               
+ │    ├── js/               
  │    │    └── script.js          ← Animações e transições com GSAP
- │    └── images              
- │        ├── img-preview
+ │    └── images/              
+ │        ├── img-preview/
  │        │    └── preview.png
- │        ├── img-sobre
+ │        ├── img-sobre/
  │        │    └── background.jpeg
- │        ├── img-treinos
+ │        ├── img-treinos/
  │        │    ├── background.jpeg
  │        │    ├── emagrecimento.jpeg
  │        │    ├── hipertrofia.jpeg
  │        │    └── master.jpeg
- │        ├── img-equipamentos 
+ │        ├── img-equipamentos/ 
  │        │    ├── background.jpeg
  │        │    ├── galeria1.jpeg
  │        │    ├── galeria2.jpeg
  │        │    └── galeria3.jpeg
- │        └── img-profissionais
+ │        └── img-profissionais/
  │             ├── ANA.jpeg
  │             ├── KADU.jpeg
  │             ├── SOFIA.jpeg
  │             └── VICTORIA.jpeg
- ├── pages
+ ├── pages/
  │    ├── sobre.html                   ← Página Sobre
  │    ├── treinos.html                 ← Página Treinos
  │    ├── equipamentos.html            ← Página Equipamentos
