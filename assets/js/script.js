@@ -3,7 +3,7 @@ window.addEventListener("load", () => {
  
   const tl = gsap.timeline({
     onComplete: () => {
-      window.location.href = "sobre.html";
+      window.location.href = "/pages/sobre.html";
     }
   });
  
