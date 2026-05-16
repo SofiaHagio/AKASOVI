@@ -100,6 +100,7 @@ ou
 
 ```      
 AKASOVI/
+ ├── index.html                   ← Intro
  ├── assets/                 
  │    ├── css/               
  │    │    ├── style.css          ← CSS principal 
@@ -127,15 +128,14 @@ AKASOVI/
  │             ├── SOFIA.jpeg
  │             └── VICTORIA.jpeg
  ├── pages/
- │    ├── sobre.html                   ← Página Sobre
- │    ├── treinos.html                 ← Página Treinos
- │    ├── equipamentos.html            ← Página Equipamentos
- │    ├── profissionais.html           ← Página Profissionais
- │    ├── planos.html                  ← Página Planos
- │    └── contato.html                 ← Página Contato
+ │    ├── sobre.html              ← Página Sobre
+ │    ├── treinos.html            ← Página Treinos
+ │    ├── equipamentos.html       ← Página Equipamentos
+ │    ├── profissionais.html      ← Página Profissionais
+ │    ├── planos.html             ← Página Planos
+ │    └── contato.html            ← Página Contato
  │
- ├── index.html                        ← Intro
- └── README.md                         ← Este arquivo
+ └── README.md                    ← Este arquivo
 ```
 
 ---
