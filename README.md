@@ -135,7 +135,7 @@ AKASOVI/
  │    └── contato.html                 ← Página Contato
  │
  ├── index.html                        ← Intro
- ├── README.md                         ← Este arquivo
+ └── README.md                         ← Este arquivo
 ```
 
 ---
