@@ -100,13 +100,13 @@ ou
 
 ```      
 AKASOVI/
- ├── index.html                   ← Intro
+ ├── index.html ← Intro
  ├── assets/                 
  │    ├── css/               
- │    │    ├── style.css          ← CSS principal 
- │    │    └── intro.css          ← CSS intro
+ │    │    ├── style.css ← CSS principal 
+ │    │    └── intro.css ← CSS intro
  │    ├── js/               
- │    │    └── script.js          ← Animações e transições com GSAP
+ │    │    └── script.js ← Animações e transições com GSAP
  │    └── images/              
  │        ├── img-preview/
  │        │    └── preview.png
@@ -128,14 +128,14 @@ AKASOVI/
  │             ├── SOFIA.jpeg
  │             └── VICTORIA.jpeg
  ├── pages/
- │    ├── sobre.html              ← Página Sobre
- │    ├── treinos.html            ← Página Treinos
- │    ├── equipamentos.html       ← Página Equipamentos
- │    ├── profissionais.html      ← Página Profissionais
- │    ├── planos.html             ← Página Planos
- │    └── contato.html            ← Página Contato
+ │    ├── sobre.html ← Página Sobre
+ │    ├── treinos.html ← Página Treinos
+ │    ├── equipamentos.html ← Página Equipamentos
+ │    ├── profissionais.html ← Página Profissionais
+ │    ├── planos.html ← Página Planos
+ │    └── contato.html ← Página Contato
  │
- └── README.md                    ← Este arquivo
+ └── README.md ← Este arquivo
 ```
 
 ---
